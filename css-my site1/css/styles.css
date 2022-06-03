@@ -1,0 +1,72 @@
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family:  'Merriweather', serif;
+  background-color: #E4F9F5;
+  padding-top: 100px;
+  position: relative;
+  color:  #14C38E;
+  font-size: 20px;
+}
+hr {
+  border-style: none none dotted;
+  color: #EFEFEF
+}
+h1 {
+  font-family:  'Sacramento', cursive;
+  color: #14C38E;
+  font-size: 80px;
+
+}
+p {
+  color: #7F8487;
+  font-size: 20px;
+}
+hr{
+  border: 10px solid dotted ;
+
+}
+img {
+  border: 0;
+}
+img {
+    vertical-align: middle;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+
+}
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.skills {
+background-color: white;
+position: relative;
+}
+.man {
+  position: absolute;
+  top: 10px;
+  left: 100px;
+}
+.notebook {
+  position: absolute;
+  top: 100px;
+  left: 350px;
+  bottom: 150px;
+}
+.dots {
+  position: absolute;
+  left: 300px;
+}
+.h3 {
+  position: absolute;
+  right: 10px;
+}
+.skill-row {
+
+}
